@@ -6,7 +6,7 @@ Code yang diupload melakukan proses klasifikasi dataset "Financial Sentiment ana
 
 # How to run: 
 
--git clone https://github.com/DhaifinaAP/2108107010018_Pertemuan_11_ANN.git
+-git clone https://github.com/DhaifinaAP/Tugas-2-Pembelajaran-Mesin-2108107010018.git
 
 -python3 -m venv env
 
@@ -14,4 +14,4 @@ Code yang diupload melakukan proses klasifikasi dataset "Financial Sentiment ana
 
 -python3 pip install -r requirements.txt
 
--run code Financial_Sentiment_Analysis.ipynb atau dengan file python: python3 Financial_Sentiment_Analysis.py 
+-run code ANN_Classification.ipynb dan ANN_Regression.ipynb 
