@@ -1,8 +1,8 @@
 # 2108107010018_Pertemuan_11_ANN
 
-Repository ini dibuat guna memenuhi tugas 3 Mata Kuliah Kecerdasan Artifisial
+Repository ini dibuat guna memenuhi tugas 3 Mata Kuliah Pembelajaran Mesin
 
-Code yang diupload melakukan proses klasifikasi dataset "Financial Sentiment analysis" dengan menggunakan model jaringan saraf tiruan (Artificial Neural Network).
+Code yang diupload melakukan proses klasifikasi dataset "Breast Cancer" dengan menggunakan model jaringan saraf tiruan (Artificial Neural Network).
 
 # How to run: 
 
@@ -10,8 +10,8 @@ Code yang diupload melakukan proses klasifikasi dataset "Financial Sentiment ana
 
 -python3 -m venv env
 
--source env/bin/activate
+-env/Scripts/activate
 
--python3 pip install -r requirements.txt
+pip install -r requirements.txt
 
 -run code ANN_Classification.ipynb dan ANN_Regression.ipynb 
