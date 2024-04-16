@@ -6,7 +6,7 @@ Code yang diupload melakukan proses klasifikasi dataset "Breast Cancer" dengan m
 
 # How to run: 
 
--git clone https://github.com/DhaifinaAP/Tugas-2-Pembelajaran-Mesin-2108107010018.git
+-git clone https://github.com/DhaifinaAP/2108107010018_Pertemuan_11_ANN.git
 
 -python3 -m venv env
 
