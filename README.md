@@ -52,6 +52,7 @@ Berdasarkan hasil perbandingan yang telah dilakukan, dapat disimpulkan bahwa dal
 ## How to run: 
 
 Linux :
+
 -git clone https://github.com/DhaifinaAP/Tugas-2-Pembelajaran-Mesin-2108107010018.git
 
 -python3 -m venv env
@@ -63,6 +64,7 @@ Linux :
 -run code Klasifikasi.ipynb dan Regresi.ipynb 
 
 Windows :
+
 -git clone https://github.com/DhaifinaAP/2108107010018_Pertemuan_11_ANN.git
 
 -python3 -m venv env
