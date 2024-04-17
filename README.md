@@ -39,6 +39,7 @@ akurasi model ANN =
   - Root Mean Square Error (RMSE): 0.2877252969300762
   - Mean Absolute Error (MAE): 0.20938474926195647
   - R-squared (R^2): 0.9931560169398499
+
 akurasi model SVM =
   - Root Mean Squared Error: 0.23620031140097486
   - Mean Absolute Error: 0.1523012263589766
